@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.156
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp3", "WindowsFormsApp3.csproj", "{D1C600C2-C60E-4788-B0C5-5D3018B20741}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicTacToeAI", "TicTacToeAI.csproj", "{D1C600C2-C60E-4788-B0C5-5D3018B20741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

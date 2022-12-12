@@ -1,0 +1,11 @@
+C:\Users\akula\Desktop\TicTacToeAI\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\akula\Desktop\TicTacToeAI\bin\Debug\WindowsFormsApp3.exe
+C:\Users\akula\Desktop\TicTacToeAI\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\TicTacToeAI.csproj.AssemblyReference.cache
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\TicTacToeAI.csproj.SuggestedBindingRedirects.cache
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\TicTacToeAI.MainForm.resources
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\TicTacToeAI.csproj.GenerateResource.cache
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\TicTacToeAI.csproj.CoreCompileInputs.cache
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\WindowsFormsApp3.exe
+C:\Users\akula\Desktop\TicTacToeAI\obj\Debug\WindowsFormsApp3.pdb
